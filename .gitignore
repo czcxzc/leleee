@@ -1,0 +1,10 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# uvicorn、开发临时文件
+*.log
